@@ -9,4 +9,4 @@ when learning to code. However I did not anticipate the importance of github or
 the networking side in general now that I have a basic understanding of git I think I will be able to
 progress more. To clarify this git test is only me learning github currently I got stuck on how 
 to push repositories to the main branch. Only to find out the reason I couldn't commit and push was
-because I did not save my repository.
+because I did not save my repository. Still getting confused red means bad right??????
